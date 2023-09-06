@@ -2,10 +2,7 @@ label{
     margin-right:0;
 }
 input{
-    border: 2px solid black;
-    border-radius: 4px;
-    position:absolute;
-    left: 150px;
+   
 }
 select{
     position:absolute;
